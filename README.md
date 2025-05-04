@@ -3,7 +3,7 @@
 This project provides a data-driven dashboard built with Power BI to analyze global smoking trends, policies, and impacts. The analysis leverages interactive visuals to support public health decisions and raise awareness of smoking-related issues.
 
  Key Questions Addressed
-How have smoking-related deaths changed between 2010 and 2020?
+How have smoking-related deaths changed between 2010 and 2023?
 
 Which countries have the highest number of smokers?
 
